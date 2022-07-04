@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>19042892674-9ag7flgqjm2ub93f5aqnecn7mu96i9jl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.19042892674-9ag7flgqjm2ub93f5aqnecn7mu96i9jl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAO-py65uS7B6J4Ueae5DtZTOTKqoobo6I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>19042892674</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.myFirstApp.Knu</string>
+	<key>PROJECT_ID</key>
+	<string>knuapp-8d756</string>
+	<key>STORAGE_BUCKET</key>
+	<string>knuapp-8d756.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:19042892674:ios:0d045c7f90cc595e</string>
+	<key>DATABASE_URL</key>
+	<string>https://knuapp-8d756.firebaseio.com</string>
+</dict>
+</plist>

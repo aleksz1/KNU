@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="DownFridayfirst" representedClassName="DownFridayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain101" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup101" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group101" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room101" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject101" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time101" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownFridayfour" representedClassName="DownFridayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain104" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup104" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group104" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room104" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject104" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time104" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownFridaysecond" representedClassName="DownFridaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain102" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup102" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group102" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room102" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject102" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time102" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownFridaythird" representedClassName="DownFridaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain103" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup103" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group103" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room103" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject103" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time103" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownMondayfirst" representedClassName="DownMondayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain61" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup61" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group61" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room61" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject61" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time61" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownMondayfour" representedClassName="DownMondayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain64" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup64" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group64" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room64" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject64" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time64" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownMondaysecond" representedClassName="DownMondaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain62" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup62" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group62" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room62" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject62" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time62" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownMondaythird" representedClassName="DownMondaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain63" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup63" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group63" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room63" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject63" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time63" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownThursdayfirst" representedClassName="DownThursdayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain91" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup91" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group91" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room91" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject91" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time91" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownThursdayfour" representedClassName="DownThursdayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain94" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup94" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group94" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room94" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject94" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time94" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownThursdaysecond" representedClassName="DownThursdaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain92" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup92" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group92" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room92" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject92" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time92" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownThursdaythird" representedClassName="DownThursdaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain93" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup93" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group93" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room93" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject93" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time93" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownTuesdayfirst" representedClassName="DownTuesdayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain71" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup71" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group71" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room71" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject71" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time71" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownTuesdayfour" representedClassName="DownTuesdayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain74" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup74" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group74" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room74" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject74" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time74" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownTuesdaysecond" representedClassName="DownTuesdaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain72" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup72" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group72" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room72" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject72" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time72" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownTuesdaythird" representedClassName="DownTuesdaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain73" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup73" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group73" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room73" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject73" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time73" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownWednesdayfirst" representedClassName="DownWednesdayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain81" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup81" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group81" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room81" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject81" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time81" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownWednesdayfour" representedClassName="DownWednesdayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain84" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup84" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group84" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room84" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject84" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time84" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownWednesdaysecond" representedClassName="DownWednesdaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain82" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup82" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group82" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room82" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject82" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time82" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DownWednesdaythird" representedClassName="DownWednesdaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain83" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup83" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group83" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room83" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject83" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time83" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpFridayfirst" representedClassName="UpFridayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain51" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup51" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group51" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room51" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject51" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time51" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpFridayfour" representedClassName="UpFridayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain54" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup54" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group54" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room54" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject54" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time54" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpFridaysecond" representedClassName="UpFridaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain52" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup52" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group52" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room52" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject52" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time52" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpFridaythird" representedClassName="UpFridaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain53" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup53" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group53" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room53" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject53" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time53" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpMondayfirst" representedClassName="UpMondayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time11" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpMondayfour" representedClassName="UpMondayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time14" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpMondaysecond" representedClassName="UpMondaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time12" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpMondaythird" representedClassName="UpMondaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time13" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpThursdayfirst" representedClassName="UpThursdayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain41" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup41" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group41" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room41" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject41" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time41" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpThursdayfour" representedClassName="UpThursdayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain44" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup44" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group44" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room44" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject44" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time44" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpThursdaysecond" representedClassName="UpThursdaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain42" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup42" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group42" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room42" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject42" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time42" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpThursdaythird" representedClassName="UpThursdaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain43" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup43" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group43" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room43" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject43" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time43" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpTuesdayfirst" representedClassName="UpTuesdayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain21" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup21" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group21" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room21" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject21" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time21" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpTuesdayfour" representedClassName="UpTuesdayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain24" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup24" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group24" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room24" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject24" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time24" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpTuesdaysecond" representedClassName="UpTuesdaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain22" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup22" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group22" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room22" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject22" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time22" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpTuesdaythird" representedClassName="UpTuesdaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain23" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup23" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group23" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room23" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject23" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time23" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpWednesdayfirst" representedClassName="UpWednesdayfirst" syncable="YES" codeGenerationType="class">
+        <attribute name="captain31" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup31" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group31" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room31" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject31" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time31" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpWednesdayfour" representedClassName="UpWednesdayfour" syncable="YES" codeGenerationType="class">
+        <attribute name="captain34" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup34" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group34" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room34" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject34" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time34" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpWednesdaysecond" representedClassName="UpWednesdaysecond" syncable="YES" codeGenerationType="class">
+        <attribute name="captain32" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup32" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group32" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room32" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject32" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time32" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UpWednesdaythird" representedClassName="UpWednesdaythird" syncable="YES" codeGenerationType="class">
+        <attribute name="captain33" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailGroup33" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="group33" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room33" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject33" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time33" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UpMondayfour" positionX="-9" positionY="126" width="128" height="135"/>
+        <element name="UpMondayfirst" positionX="-63" positionY="-18" width="128" height="135"/>
+        <element name="UpMondaysecond" positionX="-45" positionY="99" width="128" height="135"/>
+        <element name="UpMondaythird" positionX="-27" positionY="117" width="128" height="135"/>
+        <element name="UpTuesdayfirst" positionX="18" positionY="153" width="128" height="135"/>
+        <element name="UpTuesdaysecond" positionX="-9" positionY="126" width="128" height="135"/>
+        <element name="UpTuesdaythird" positionX="0" positionY="135" width="128" height="135"/>
+        <element name="UpTuesdayfour" positionX="9" positionY="144" width="128" height="135"/>
+        <element name="UpWednesdayfirst" positionX="18" positionY="153" width="128" height="135"/>
+        <element name="UpWednesdaysecond" positionX="27" positionY="162" width="128" height="135"/>
+        <element name="UpWednesdaythird" positionX="36" positionY="171" width="128" height="135"/>
+        <element name="UpWednesdayfour" positionX="-9" positionY="126" width="128" height="135"/>
+        <element name="UpThursdayfirst" positionX="0" positionY="135" width="128" height="135"/>
+        <element name="UpThursdaysecond" positionX="9" positionY="144" width="128" height="135"/>
+        <element name="UpThursdaythird" positionX="18" positionY="153" width="128" height="135"/>
+        <element name="UpThursdayfour" positionX="27" positionY="162" width="128" height="135"/>
+        <element name="UpFridayfirst" positionX="36" positionY="171" width="128" height="135"/>
+        <element name="UpFridaysecond" positionX="45" positionY="180" width="128" height="135"/>
+        <element name="UpFridaythird" positionX="-9" positionY="126" width="128" height="135"/>
+        <element name="UpFridayfour" positionX="0" positionY="135" width="128" height="135"/>
+        <element name="DownMondayfirst" positionX="9" positionY="144" width="128" height="135"/>
+        <element name="DownMondaysecond" positionX="18" positionY="153" width="128" height="135"/>
+        <element name="DownMondaythird" positionX="27" positionY="162" width="128" height="135"/>
+        <element name="DownMondayfour" positionX="36" positionY="171" width="128" height="135"/>
+        <element name="DownTuesdayfirst" positionX="45" positionY="180" width="128" height="135"/>
+        <element name="DownTuesdaysecond" positionX="-9" positionY="126" width="128" height="135"/>
+        <element name="DownTuesdaythird" positionX="0" positionY="135" width="128" height="135"/>
+        <element name="DownTuesdayfour" positionX="9" positionY="144" width="128" height="135"/>
+        <element name="DownWednesdayfirst" positionX="18" positionY="153" width="128" height="135"/>
+        <element name="DownWednesdaysecond" positionX="27" positionY="162" width="128" height="135"/>
+        <element name="DownWednesdaythird" positionX="36" positionY="171" width="128" height="135"/>
+        <element name="DownWednesdayfour" positionX="45" positionY="180" width="128" height="135"/>
+        <element name="DownThursdayfirst" positionX="-9" positionY="126" width="128" height="135"/>
+        <element name="DownThursdaysecond" positionX="0" positionY="135" width="128" height="135"/>
+        <element name="DownThursdaythird" positionX="9" positionY="144" width="128" height="135"/>
+        <element name="DownThursdayfour" positionX="18" positionY="153" width="128" height="135"/>
+        <element name="DownFridayfirst" positionX="27" positionY="162" width="128" height="135"/>
+        <element name="DownFridaysecond" positionX="36" positionY="171" width="128" height="135"/>
+        <element name="DownFridaythird" positionX="45" positionY="180" width="128" height="135"/>
+        <element name="DownFridayfour" positionX="-9" positionY="126" width="128" height="135"/>
+    </elements>
+</model>
